@@ -1,1 +1,10 @@
+---- Simple Visualization for Days required to complete each assignment. ----
 
+
+
+The data set contains the 10 rows and 4 columns. The data is describing the time taken (in days) to complete all 10 assignments. The last column Day Days_To_Compplete is calculate using simple excel formula as below,
+                          **= (End_Date - Start_Date)**
+
+To visualize I simply used the two graphs 1. Bar graphs which shows how many days (In number) is required to finish each assignment and 2. Pie Chart which shows how many days required to complete the assignment in percentage.
+
+We can simply compare the graphs in number as well as the percentage. The bar graph can be used to understand how much day’s particular student required to complete each assignment and pie chart can tell us overall days required in percentages by all the students to complete each assignment. By seeing the pie chart one factor teacher can understand that which topic is more complex or difficult to understand as student took little longer time to solve that particular assignment.
